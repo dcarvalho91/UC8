@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-03T19:13:28.613Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.8.1" etag="oQPmLrSZ29RJIkT9p3TQ" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-03T19:13:58.609Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.8.1" etag="xbcdWyqCTqGRkh7_bl5C" type="github">
   <diagram id="izFzTXB-ncYZJHwt7cf1" name="Página-1">
     <mxGraphModel dx="1687" dy="889" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -94,7 +94,7 @@
             <mxPoint x="110" y="710" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="rxMybZWeZgkrS4qQA4bD-35" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Cadastro Negado:&amp;nbsp;&lt;br style=&quot;font-size: 14px;&quot;&gt;Usuário Não Cumrpe&lt;br style=&quot;font-size: 14px;&quot;&gt;Requisitos de Idade&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;/font&gt;" style="shape=display;whiteSpace=wrap;html=1;fontSize=14;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="rxMybZWeZgkrS4qQA4bD-35" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Cadastro Negado:&amp;nbsp;&lt;br style=&quot;font-size: 14px;&quot;&gt;Usuário Não Cumpre&lt;br style=&quot;font-size: 14px;&quot;&gt;&amp;nbsp; &amp;nbsp; Requisitos de Idade&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;/font&gt;" style="shape=display;whiteSpace=wrap;html=1;fontSize=14;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="20" y="930" width="170" height="80" as="geometry" />
         </mxCell>
         <mxCell id="rxMybZWeZgkrS4qQA4bD-36" value="" style="endArrow=classic;html=1;rounded=0;fontSize=14;entryX=0;entryY=0;entryDx=86.25;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="rxMybZWeZgkrS4qQA4bD-32" target="rxMybZWeZgkrS4qQA4bD-35">
